@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Download Web Content</string>
+    <string name="enter_any_url">Enter any URL</string>
+    <string name="url">URL</string>
+    <string name="btn_download_web_content">Download Web Content</string>
+    <string name="toast">URL should be filled</string>
+    <string name="success">Success!</string>
+</resources>
